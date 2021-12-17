@@ -12,6 +12,7 @@ spacy = "*"
 python-dotenv = "*"
 requests = "*"
 scikit-learn = "*"
+gunicorn = "*"
 
 [dev-packages]
 
