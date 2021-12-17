@@ -1,0 +1,3 @@
+I am a data science student working on a school project, and not planning to use the API for retweets/content creation (no spam-bot behavior). I will be developing an application that analyzes the textual content of Tweets for comparing different Twitter users.
+my school project application is A Flask web application that aims to predict, between two Twitter users, who are more likely to post a given Tweet.
+as I stated before my app will be analyzes the textual content of Tweets for comparing different Twitter users. I will not be using any other functionality 
